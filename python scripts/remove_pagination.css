@@ -1,0 +1,25 @@
+
+/* Alternative CSS solution to show all speakers without pagination */
+/* Add this to your CSS file or in a <style> tag */
+
+/* Hide pagination navigation */
+.w-pagination-wrapper {
+    display: none !important;
+}
+
+/* Ensure all speakers are visible */
+.collection-item {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+/* Remove any pagination-related hiding */
+[style*="display: none"] {
+    display: block !important;
+}
+
+/* Ensure proper spacing between speakers */
+.collection-item + .collection-item {
+    margin-top: 20px;
+}

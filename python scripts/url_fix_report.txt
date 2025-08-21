@@ -1,0 +1,10 @@
+URL FIX REPORT
+============================================================
+
+Files fixed: 6
+  - /Users/cjh/Downloads/us.sitesucker.mac.sitesucker/china2024.gosim.org/visa-information.html
+  - /Users/cjh/Downloads/us.sitesucker.mac.sitesucker/china2024.gosim.org/location.html
+  - /Users/cjh/Downloads/us.sitesucker.mac.sitesucker/china2024.gosim.org/sponsors.html
+  - /Users/cjh/Downloads/us.sitesucker.mac.sitesucker/china2024.gosim.org/zh.html
+  - /Users/cjh/Downloads/us.sitesucker.mac.sitesucker/china2024.gosim.org/zh/location.html
+  - /Users/cjh/Downloads/us.sitesucker.mac.sitesucker/china2024.gosim.org/zh/sponsors.html
